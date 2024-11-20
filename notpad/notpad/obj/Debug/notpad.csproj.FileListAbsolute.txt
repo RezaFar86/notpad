@@ -1,0 +1,9 @@
+C:\Users\PC 7\Desktop\notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\PC 7\Desktop\notpad\notpad\bin\Debug\notpad.exe
+C:\Users\PC 7\Desktop\notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.csprojResolveAssemblyReference.cache
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.frmmain.resources
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.Cache
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.exe
+C:\Users\PC 7\Desktop\notpad\notpad\obj\Debug\notpad.pdb
